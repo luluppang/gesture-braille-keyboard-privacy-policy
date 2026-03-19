@@ -49,4 +49,4 @@ This Privacy Policy may be updated in the future. Any changes will be reflected 
 
 If you have any questions, please contact:
 
-your_email@example.com
+hci.stonybrook@gmail.com
