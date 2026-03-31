@@ -40,4 +40,4 @@ Please email the issue details, device model, and iOS version.
 
 See the privacy policy here:
 
-[Privacy Policy]
+https://github.com/luluppang/gesture-braille-keyboard-support/blob/main/privacy-policy.md
